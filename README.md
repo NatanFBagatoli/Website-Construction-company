@@ -19,16 +19,21 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🏫 Página Inicial
 
+![ReYsmAL](https://github.com/user-attachments/assets/b97077e0-8ed9-4dd6-86f5-47ae04280536)
 
 ### 📚 Página de Serviços
 
+![Ic7cTLs](https://github.com/user-attachments/assets/db611bf0-8f9a-4f84-afad-2843b9b88d3c)
 
 ### 📊 Página de Galeria
 
+![LzYBa8q](https://github.com/user-attachments/assets/6dbaa821-d946-4454-9eec-7b24fb7119a8)
 
 ### 📱 Link para o site
 
----
+https://website-construction-company.vercel.app/
+
+--- 
 
 ## 🔧 Instalação e Uso
 
@@ -63,8 +68,8 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## 📄 Features
 
-- 🔜 Estrutura responsiva e moderna
-- 🔜 Interface intuitiva e atraente
+- ✅ Estrutura responsiva e moderna
+- ✅ Interface intuitiva e atraente
 - 🔜 Documentação de código
 - 🔜 Correção de bugs
 - 🔜 Melhorias contínuas
